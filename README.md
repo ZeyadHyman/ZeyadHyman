@@ -92,5 +92,6 @@
 </p>
 
 ---
-
+<p align="center">
 🚀 **Let's collaborate and build something amazing!**
+</p>
