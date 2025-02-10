@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  🚀 **Let's collaborate and build something amazing!**  
+  🚀 <strong>Let's collaborate and build something amazing!</strong> 
 </p>
 
 <p align="center">
