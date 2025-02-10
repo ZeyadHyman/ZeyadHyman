@@ -46,46 +46,32 @@
 
 ## 🏆 Featured Projects  
 
-<p align="center">
-  💪 <strong><a href="https://qyf-eg.org/">Qadroon Youth</a></strong> - Empowering youth through volunteerism and social initiatives.  
-  🛠 <strong>Technologies:</strong> React, Node.js, Tailwind CSS  
-</p>
+### 💪 [Qadroon Youth](https://qyf-eg.org/)  
+**Empowering youth through volunteerism and social initiatives**.  
+🛠 **Technologies:** React, Node.js, Tailwind CSS  
 
-<p align="center">
-  🏺 <strong><a href="https://discover-egypt-web.netlify.app/">Discover Egypt</a></strong> - Explore Egypt's history and culture.  
-  🛠 <strong>Technologies:</strong> Vue.js, Laravel, MySQL  
-</p>
+### 🛕 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
+**A dynamic platform to explore Egypt's history and culture.**  
+🛠 **Technologies:** Vue.js, Laravel, MySQL  
 
-<p align="center">
-  🛒 <strong><a href="https://yassenmohamedrashad.github.io/Metromart/">MetroMart</a></strong> - A modern e-commerce platform.  
-  🛠 <strong>Technologies:</strong> React.js, Express.js, Node.js, Bootstrap  
-</p>
+### 🛒 [MetroMart](https://yassenmohamedrashad.github.io/Metromart/)  
+**A modern e-commerce platform built for a seamless shopping experience.**  
+🛠 **Technologies:** React.js, Express.js, Node.js, Bootstrap  
 
-<p align="center">
-  🔒 <strong><a href="https://zeyadhyman.github.io/Pearson-Unit-6/">Berimbolo Security</a></strong> - Security services website.  
-  🛠 <strong>Technologies:</strong> HTML, CSS, JavaScript  
-</p>
+### 🔒 [Berimbolo Security](https://zeyadhyman.github.io/Pearson-Unit-6/)  
+**A responsive website showcasing security services and CCTV solutions.**  
+🛠 **Technologies:** HTML, CSS, JavaScript  
 
-<p align="center">
-  ⚽ <strong><a href="https://zamaleksupercub2024.netlify.app/">Zamalek CAF Super Cup Countdown</a></strong> - Interactive countdown for Zamalek SC fans.  
-  🛠 <strong>Technologies:</strong> React, Tailwind CSS, Netlify  
-</p>
+### ⚽ [Zamalek CAF Super Cup Countdown](https://zamaleksupercub2024.netlify.app/)  
+**An interactive website tracking Zamalek SC's CAF Super Cup victory.**  
+🛠 **Technologies:** React, Tailwind CSS, Netlify  
 
-<p align="center">
-  ♻️ <strong><a href="https://in-frame-recycle.vercel.app/">Recycle Website</a></strong> - Raising awareness about recycling and sustainability.  
-  🛠 <strong>Technologies:</strong> HTML, CSS, JavaScript  
-</p>
+### ♻️ [Recycle Website](https://in-frame-recycle.vercel.app/)  
+**A platform raising awareness about recycling and sustainability.**  
+🛠 **Technologies:** HTML, CSS, JavaScript  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight&rank_icon=github" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%">
-</p>
-
----
 
 ## 📬 Connect with Me  
 
