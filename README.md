@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<h1 align="center">Hey Everyone, I'm Zeyad Hyman 👋</h1>
+<h1 align="center">Hey Everyone, I'm Zeyad Hyman </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,9 +12,9 @@
 </p>
 
 
-  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
 
 ---
+  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
 
 ## 🚀 Tech Stack  
 
