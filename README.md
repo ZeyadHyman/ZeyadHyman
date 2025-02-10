@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Zeyad Hyman**, a dedicated **Full-Stack Web Developer** with a passion for building engaging, scalable, and user-friendly applications. I specialize in **Laravel, Livewire, React, and Tailwind CSS**, bringing modern, responsive, and highly optimized digital experiences to life.  
+I'm **Zeyad Hyman**, a dedicated **Full-Stack Web Developer** with a passion for building engaging, scalable, and user-friendly applications. I specialize in **Laravel, React, and Tailwind CSS**, bringing modern, responsive, and highly optimized digital experiences to life.  
 
 With a strong background in front-end and back-end development, I have worked on projects ranging from **e-commerce platforms** to **community-driven applications**. I believe in the power of clean code, seamless UI/UX, and innovative problem-solving.  
 
@@ -74,8 +74,8 @@ With a strong background in front-end and back-end development, I have worked on
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%" height="150">
 </p>
 
 ---
@@ -83,7 +83,6 @@ With a strong background in front-end and back-end development, I have worked on
 ## 📬 Connect with Me  
 
 📧 **Email:** [zeyadhyman@gmail.com](mailto:zeyadhyman@gmail.com)  
-📍 **Location:** Shubra El-Khaimah, Al-Qalyubia, Egypt  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZeyadHyman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadhyman)
