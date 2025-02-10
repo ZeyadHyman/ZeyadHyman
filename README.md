@@ -8,12 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me  
-
-I'm **Zeyad Hyman**, a dedicated **Full-Stack Web Developer** with a passion for building engaging, scalable, and user-friendly applications. I specialize in **Laravel, Livewire, React, and Tailwind CSS**, bringing modern, responsive, and highly optimized digital experiences to life.  
-
-With a strong background in front-end and back-end development, I have worked on projects ranging from **e-commerce platforms** to **community-driven applications**. I believe in the power of **clean code, seamless UI/UX, and innovative problem-solving**.  
-
 🌍 **Portfolio:** [zeyadhyman.netlify.app](https://zeyadhyman.netlify.app/)  
 
 ## 🚀 Tech Stack  
