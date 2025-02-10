@@ -74,8 +74,8 @@ With a strong background in front-end and back-end development, I have worked on
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%" height="200">
 </p>
 
 ---
