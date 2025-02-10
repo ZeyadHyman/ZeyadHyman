@@ -14,7 +14,10 @@
 
 
 ---
+<p align="center">
+
   🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman</a>
+</p>
 
 ## 🚀 Tech Stack  
 
