@@ -83,11 +83,8 @@
 
 ## 📬 Connect with Me  
 
-<p align="center">
   📧 <strong>Email:</strong> <a href="mailto:zeyadhyman@gmail.com">zeyadhyman@gmail.com</a>  
-</p>
 
-<p align="center">
   <a href="https://github.com/ZeyadHyman">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
@@ -97,7 +94,6 @@
   <a href="https://wa.me/201121859584">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
   </a>
-</p>
 
 ---
 
