@@ -2,21 +2,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=0653BB&background=76767600&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Zeyad+Hyman!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=0653BB&background=76767600&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zeyad+Hyman!;A+Full-Stack+Developer;Laravel+%7C+Livewire+%7C+React+%7C+Tailwind+CSS;Let's+Build+Something+Amazing!" alt="Typing SVG">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 I'm **Zeyad Hyman**, a dedicated **Full-Stack Web Developer** with a passion for building engaging, scalable, and user-friendly applications. I specialize in **Laravel, Livewire, React, and Tailwind CSS**, bringing modern, responsive, and highly optimized digital experiences to life.  
 
-With a strong background in front-end and back-end development, I have worked on projects ranging from **e-commerce platforms** to **community-driven applications**. I believe in the power of clean code, seamless UI/UX, and innovative problem-solving.  
+With a strong background in front-end and back-end development, I have worked on projects ranging from **e-commerce platforms** to **community-driven applications**. I believe in the power of **clean code, seamless UI/UX, and innovative problem-solving**.  
 
 🌍 **Portfolio:** [zeyadhyman.netlify.app](https://zeyadhyman.netlify.app/)  
-
----
 
 ## 🚀 Tech Stack  
 
