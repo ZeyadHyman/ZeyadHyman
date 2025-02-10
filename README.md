@@ -11,11 +11,8 @@
   </a>
 </p>
 
----
 
-<p align="center">
   🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
-</p>
 
 ---
 
