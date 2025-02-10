@@ -2,19 +2,42 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=0653BB&background=76767600&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Zeyad+Hyman!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=0653BB&background=76767600&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Zeyad+Hyman!;Full-Stack+Web+Developer;Laravel+%7C+React+%7C+Tailwind+CSS;Passionate+about+Clean+Code+and+UI%2FUX;Let's+Build+Something+Amazing!">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I'm **Zeyad Hyman**, a dedicated **Full-Stack Web Developer** with a passion for building engaging, scalable, and user-friendly applications. I specialize in **Laravel, React, and Tailwind CSS**, bringing modern, responsive, and highly optimized digital experiences to life.  
+I'm **Zeyad Hyman Saber**, a passionate **Full-Stack Web Developer** with expertise in **Laravel, React, and Tailwind CSS**. I love building scalable, user-friendly, and modern web applications that enhance user experiences.  
 
-With a strong background in front-end and back-end development, I have worked on projects ranging from **e-commerce platforms** to **community-driven applications**. I believe in the power of clean code, seamless UI/UX, and innovative problem-solving.  
+💡 **What I Do:**  
+- ⚡ **Full-Stack Development** – Laravel, React, Livewire, Alpine.js  
+- 🎨 **Frontend Mastery** – Tailwind CSS, Bootstrap, JavaScript  
+- 🔌 **API Integration & Authentication** – OAuth, Postman, Paymob  
+- 🚀 **Optimized Web Solutions** – Performance, Scalability & Best Practices  
 
+📍 **Location:** 6 Abdullah Mansour Street, Shubra El-Khaimah, Al-Qalyubia, Egypt  
 🌍 **Portfolio:** [zeyadhyman.netlify.app](https://zeyadhyman.netlify.app/)  
+🗣 **Languages:** Arabic (Native) | English  
+
+---
+
+## 🎓 Education & Training  
+
+🎓 **New Cairo Technological University**  
+*Bachelor’s Degree in IT (Information Technology)* | 2024 – Present  
+
+🎓 **WE School for Applied Technology, Nasr City**  
+*Specialized in Web Development* | 2021 – 2024  
+
+📚 **Samsung Training Program**  
+- Learned foundational programming skills in Python, C, and Scratch.  
+
+📚 **Ready for Tomorrow: Entrepreneurship Skills Building Program**  
+- **December 1, 2023 – December 9, 2023**  
+- Career and sector orientation, life skills, and gender awareness training.  
 
 ---
 
@@ -45,11 +68,11 @@ With a strong background in front-end and back-end development, I have worked on
 
 ## 🏆 Featured Projects  
 
-### 💪 [Qadroon Youth](https://qyf-eg.org/)  
-**Empowering youth through volunteerism and social initiatives**.  
+### ⚡ [Qadroon Youth](https://qyf-eg.org/)  
+**Empowering youth through volunteerism and social initiatives.**  
 🛠 **Technologies:** React, Node.js, Tailwind CSS  
 
-### 🛕 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
+### 🏺 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
 **A dynamic platform to explore Egypt's history and culture.**  
 🛠 **Technologies:** Vue.js, Laravel, MySQL  
 
