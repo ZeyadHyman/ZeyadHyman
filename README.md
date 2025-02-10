@@ -45,11 +45,11 @@ With a strong background in front-end and back-end development, I have worked on
 
 ## 🏆 Featured Projects  
 
-### 🎨 [Qadroon Youth](https://qyf-eg.org/)  
+### 💪 [Qadroon Youth](https://qyf-eg.org/)  
 **Empowering youth through volunteerism and social initiatives**.  
 🛠 **Technologies:** React, Node.js, Tailwind CSS  
 
-### 🏛️ [Discover Egypt](https://discover-egypt-web.netlify.app/)  
+### 🛕 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
 **A dynamic platform to explore Egypt's history and culture.**  
 🛠 **Technologies:** Vue.js, Laravel, MySQL  
 
