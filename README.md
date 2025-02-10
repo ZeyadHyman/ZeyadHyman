@@ -14,7 +14,7 @@
 
 
 ---
-  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
+  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman</a>
 
 ## 🚀 Tech Stack  
 
