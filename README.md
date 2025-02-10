@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<h1 align="center">Hey Everyone, I'm Zeyad Hyman</h1>
+<h1 align="center">Hey Everyone, I'm Zeyad Hyman 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,56 +13,68 @@
 
 ---
 
-🌍 **Portfolio:** [zeyadhyman.netlify.app](https://zeyadhyman.netlify.app/)
+<p align="center">
+  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
+</p>
 
+---
 
 ## 🚀 Tech Stack  
 
-**Languages & Frameworks:**  
+<p align="center">
+  <strong>Languages & Frameworks:</strong> <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p align="center">
+  <strong>Tools & Platforms:</strong> <br>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+</p>
 
-**Tools & Platforms:**  
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
+---
 
 ## 🏆 Featured Projects  
 
-### 💪 [Qadroon Youth](https://qyf-eg.org/)  
-**Empowering youth through volunteerism and social initiatives**.  
-🛠 **Technologies:** React, Node.js, Tailwind CSS  
+<p align="center">
+  💪 <strong><a href="https://qyf-eg.org/">Qadroon Youth</a></strong> - Empowering youth through volunteerism and social initiatives.  
+  🛠 <strong>Technologies:</strong> React, Node.js, Tailwind CSS  
+</p>
 
-### 🛕 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
-**A dynamic platform to explore Egypt's history and culture.**  
-🛠 **Technologies:** Vue.js, Laravel, MySQL  
+<p align="center">
+  🏺 <strong><a href="https://discover-egypt-web.netlify.app/">Discover Egypt</a></strong> - Explore Egypt's history and culture.  
+  🛠 <strong>Technologies:</strong> Vue.js, Laravel, MySQL  
+</p>
 
-### 🛒 [MetroMart](https://yassenmohamedrashad.github.io/Metromart/)  
-**A modern e-commerce platform built for a seamless shopping experience.**  
-🛠 **Technologies:** React.js, Express.js, Node.js, Bootstrap  
+<p align="center">
+  🛒 <strong><a href="https://yassenmohamedrashad.github.io/Metromart/">MetroMart</a></strong> - A modern e-commerce platform.  
+  🛠 <strong>Technologies:</strong> React.js, Express.js, Node.js, Bootstrap  
+</p>
 
-### 🔒 [Berimbolo Security](https://zeyadhyman.github.io/Pearson-Unit-6/)  
-**A responsive website showcasing security services and CCTV solutions.**  
-🛠 **Technologies:** HTML, CSS, JavaScript  
+<p align="center">
+  🔒 <strong><a href="https://zeyadhyman.github.io/Pearson-Unit-6/">Berimbolo Security</a></strong> - Security services website.  
+  🛠 <strong>Technologies:</strong> HTML, CSS, JavaScript  
+</p>
 
-### ⚽ [Zamalek CAF Super Cup Countdown](https://zamaleksupercub2024.netlify.app/)  
-**An interactive website tracking Zamalek SC's CAF Super Cup victory.**  
-🛠 **Technologies:** React, Tailwind CSS, Netlify  
+<p align="center">
+  ⚽ <strong><a href="https://zamaleksupercub2024.netlify.app/">Zamalek CAF Super Cup Countdown</a></strong> - Interactive countdown for Zamalek SC fans.  
+  🛠 <strong>Technologies:</strong> React, Tailwind CSS, Netlify  
+</p>
 
-### ♻️ [Recycle Website](https://in-frame-recycle.vercel.app/)  
-**A platform raising awareness about recycling and sustainability.**  
-🛠 **Technologies:** HTML, CSS, JavaScript  
+<p align="center">
+  ♻️ <strong><a href="https://in-frame-recycle.vercel.app/">Recycle Website</a></strong> - Raising awareness about recycling and sustainability.  
+  🛠 <strong>Technologies:</strong> HTML, CSS, JavaScript  
+</p>
 
 ---
 
@@ -73,16 +85,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%">
 </p>
 
-
 ---
 
 ## 📬 Connect with Me  
 
-📧 **Email:** [zeyadhyman@gmail.com](mailto:zeyadhyman@gmail.com) 
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:zeyadhyman@gmail.com">zeyadhyman@gmail.com</a>  
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZeyadHyman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadhyman)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201121859584)
+<p align="center">
+  <a href="https://github.com/ZeyadHyman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/zeyadhyman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.me/201121859584">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
 ---
 
