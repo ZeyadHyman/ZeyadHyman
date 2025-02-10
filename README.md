@@ -56,9 +56,6 @@
 
   📧 <strong>Email:</strong> <a href="mailto:zeyadhyman@gmail.com">zeyadhyman@gmail.com</a>  
 
-  <a href="https://github.com/ZeyadHyman">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/zeyadhyman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
