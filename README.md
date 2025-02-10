@@ -45,11 +45,11 @@ With a strong background in front-end and back-end development, I have worked on
 
 ## 🏆 Featured Projects  
 
-### 🎨 [Qadroon Youth](https://qyf-eg.org/)  
+### 💪 [Qadroon Youth](https://qyf-eg.org/)  
 **Empowering youth through volunteerism and social initiatives**.  
 🛠 **Technologies:** React, Node.js, Tailwind CSS  
 
-### 🏛️ [Discover Egypt](https://discover-egypt-web.netlify.app/)  
+### 🛕 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
 **A dynamic platform to explore Egypt's history and culture.**  
 🛠 **Technologies:** Vue.js, Laravel, MySQL  
 
@@ -83,11 +83,9 @@ With a strong background in front-end and back-end development, I have worked on
 ## 📬 Connect with Me  
 
 📧 **Email:** [zeyadhyman@gmail.com](mailto:zeyadhyman@gmail.com)  
-📍 **Location:** Shubra El-Khaimah, Al-Qalyubia, Egypt  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZeyadHyman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyadhyman)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zeyadhyman)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201121859584)
 
 ---
