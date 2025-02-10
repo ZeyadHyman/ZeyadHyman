@@ -41,34 +41,6 @@
 
 ---
 
-## 🏆 Featured Projects  
-
-### 💪 [Qadroon Youth](https://qyf-eg.org/)  
-**Empowering youth through volunteerism and social initiatives.**  
-🛠 **Technologies:** React, Node.js, Tailwind CSS  
-
-### 🏺 [Discover Egypt](https://discover-egypt-web.netlify.app/)  
-**A dynamic platform to explore Egypt's history and culture.**  
-🛠 **Technologies:** Vue.js, Laravel, MySQL  
-
-### 🛒 [MetroMart](https://yassenmohamedrashad.github.io/Metromart/)  
-**A modern e-commerce platform built for a seamless shopping experience.**  
-🛠 **Technologies:** React.js, Express.js, Node.js, Bootstrap  
-
-### 🔒 [Berimbolo Security](https://zeyadhyman.github.io/Pearson-Unit-6/)  
-**A responsive website showcasing security services and CCTV solutions.**  
-🛠 **Technologies:** HTML, CSS, JavaScript  
-
-### ⚽ [Zamalek CAF Super Cup Countdown](https://zamaleksupercub2024.netlify.app/)  
-**An interactive website tracking Zamalek SC's CAF Super Cup victory.**  
-🛠 **Technologies:** React, Tailwind CSS, Netlify  
-
-### ♻️ [Recycle Website](https://in-frame-recycle.vercel.app/)  
-**A platform raising awareness about recycling and sustainability.**  
-🛠 **Technologies:** HTML, CSS, JavaScript  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
