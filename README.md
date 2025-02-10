@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<h1 align="center">Hey Everyone, I'm Zeyad Hyman </h1>
+<h1 align="center">Hey Everyone, I'm Zeyad Hyman 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,17 +11,19 @@
   </a>
 </p>
 
+---
 
+### 🌍 Portfolio  
+<p align="center">
+  🔗 <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
+</p>
 
 ---
-<p align="center">
-  🌍 <strong>Portfolio:</strong> <a href="https://zeyadhyman.netlify.app/">zeyadhyman</a>
-</p>
 
 ## 🚀 Tech Stack  
 
+### 🔹 Languages & Frameworks  
 <p align="center">
-  <strong>Languages & Frameworks:</strong> <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -31,8 +33,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </p>
 
+### 🔹 Tools & Platforms  
 <p align="center">
-  <strong>Tools & Platforms:</strong> <br>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -46,26 +48,27 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%">
 </p>
 
 ---
 
 ## 📬 Connect with Me  
 
-  📧 <strong>Email:</strong> <a href="mailto:zeyadhyman@gmail.com">zeyadhyman@gmail.com</a>  
+📧 **Email:** [zeyadhyman@gmail.com](mailto:zeyadhyman@gmail.com)  
 
+<p align="center">
   <a href="https://www.linkedin.com/in/zeyadhyman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://wa.me/201121859584">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
   </a>
+</p>
 
 ---
 
 <p align="center">
   🚀 <strong>Let's collaborate and build something amazing!</strong> 
 </p>
-
