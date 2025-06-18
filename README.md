@@ -42,27 +42,6 @@ We bring your vision to life with end-to-end web development services:
   <em>Plus, we’re always learning new tools to stay ahead of the curve!</em>
 </p>
 
----
-
-## 🌟 Featured Projects
-
-Here’s a taste of what we’ve built:
-
-- **E-Commerce Platform**  
-  A responsive online store with React, Laravel, and Tailwind CSS. Features include secure payments, user authentication, and admin dashboards.  
-  🔗 [Live Demo](#) | 📂 [GitHub Repo](#)
-
-- **Portfolio Website**  
-  A sleek, SEO-optimized portfolio for a creative agency, built with Next.js and TypeScript.  
-  🔗 [Live Demo](#) | 📂 [GitHub Repo](#)
-
-- **Task Management App**  
-  A collaborative app with real-time updates using Node.js, Express, and MongoDB.  
-  🔗 [Live Demo](#) | 📂 [GitHub Repo](#)
-
-<p align="center">
-  <em>Want to see more? Reach out to us!</em>
-</p>
 
 ---
 
