@@ -1,84 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&center=true&vCenter=true&width=450&lines=Welcome+to+FekraGo!;Think+It%2C+We+Build+It!" alt="Typing SVG" />
-</h1>
-
+<!-- Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> 
-  <strong>FekraGo</strong> – Your dream team of passionate developers building <em>fast</em>, <em>functional</em>, and <em>stunning</em> web experiences.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg" />
-</p>
-
----
-
-## 🚀 Who We Are
-
-At **FekraGo**, we’re a dynamic crew of web developers, designers, and problem-solvers dedicated to turning your ideas into reality. From sleek landing pages to robust web apps, we craft digital solutions that *wow* users and deliver results.
-
----
-
-## 🔧 What We Do
-
-We bring your vision to life with end-to-end web development services:
-
-- ⚙️ **Full-Stack Development**: Seamless frontend and backend integration.
-- 🎨 **UI/UX Design**: Beautiful, intuitive interfaces that users love.
-- 🚀 **Scalable Web Apps**: High-performance, SEO-friendly solutions.
-- 🤝 **Client Collaboration**: Real-world projects with transparent communication.
-
----
-
-## 🛠️ Our Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,laravel,php,tailwind,nodejs,express,mongodb,mysql,git,figma" />
-</div>
+<h1 align="center">Hey Everyone, I'm Zeyad Hyman </h1>
 
 <p align="center">
-  <em>Plus, we’re always learning new tools to stay ahead of the curve!</em>
-</p>
-
-
----
-
-## 📬 Get in Touch
-
-Have an idea? Let’s make it happen!  
-- 💌 **Email**: [fekragoteam@gmail.com](mailto:fekragoteam@gmail.com)  
-- 🌐 **Website**: [Coming Soon!](#)
-
----
-
-## 🌐 Connect With Us
-
-<p align="center">
-  <a href="https://www.tiktok.com/@fekrago" target="_blank"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.instagram.com/fekrago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61577334156738" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/company/fekrago/about" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=30&pause=1000&color=0653BB&background=76767600&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Node.js+%7C+React+%7C+Tailwind+CSS;Let's+Build+Something+Amazing!" alt="Typing SVG">
+  </a>
 </p>
 
 ---
 
-## 🧠 Our Motto
-
-> 💡 **“Think it. We build it.”**  
-> 🔥 Transforming your ideas into pixel-perfect, high-performance web solutions.
+### 🌍 Portfolio  
+<p align="center">
+  🔗 <a href="https://zeyadhyman.netlify.app/">zeyadhyman.netlify.app</a>
+</p>
 
 ---
 
-## 🤗 Join Our Journey
+## 🚀 Tech Stack  
 
-We’re always open to collaborating with talented developers, designers, and clients. Drop us a line or follow us on social media to stay updated on our latest projects!
-
+### 🔹 Languages & Frameworks  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 </p>
 
+### 🔹 Tools & Platforms  
 <p align="center">
-  <strong>Let’s build something amazing together!</strong>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadHyman&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeyadHyman&theme=tokyonight" width="48%">
+</p>
+
+---
+
+## 📬 Connect with Me  
+
+📧 **Email:** [zeyadhyman@gmail.com](mailto:zeyadhyman@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zeyadhyman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.me/201121859584">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <strong>Let's collaborate and build something amazing!</strong> 
 </p>
